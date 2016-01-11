@@ -1,4 +1,5 @@
 chmod +x $0
+############33
 merg ()
 {
 clear
